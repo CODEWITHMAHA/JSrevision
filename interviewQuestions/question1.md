@@ -1,4 +1,4 @@
-❓ Why do we place the <script> tag at the end of the <body> tag?
+Q:❓ Why do we place the <script> tag at the end of the <body> tag?
 
 We place the <script> tag at the end of the HTML body to ensure the HTML content loads before the JavaScript is executed. This improves page load speed and performance.
 
