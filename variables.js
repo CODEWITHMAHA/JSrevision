@@ -20,9 +20,3 @@ console.log($cityName);
 
 // var my@Email ="maha@134gmail.com";  //SyntaxError: Invalid or unexpected token  
 // console.log(my@Email );
-
-
-
-
-
-
