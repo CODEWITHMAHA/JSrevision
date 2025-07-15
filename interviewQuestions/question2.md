@@ -150,3 +150,17 @@ console.log(parseInt("xyz")) // NaN
 console.log(parseInt("@#$")) // NaN
 
 // in both cases, we obtain NaN but the reason is different.That's why NaN === NaN is false.
+
+
+    Tricky Interview Questions of Type coercion:
+
+console.log(10+"20"); //1020
+console.log(9-"5");   //4
+console.log("Java" + "Script"); //JavaScript
+console.log("MahA" - "khan"); //NaN
+console.log(true+true); //2
+console.log(true+false); //1
+console.log(false+true); //1
+const bool = false+false;
+console.log(typeof bool); //number
+console.log(true - false); //1
